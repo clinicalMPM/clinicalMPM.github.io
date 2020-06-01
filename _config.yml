@@ -1,1 +1,5 @@
+exclude:
+- Dockerfile
+- LICENSE
+- source.sh
 theme: jekyll-theme-cayman

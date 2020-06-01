@@ -1,0 +1,23 @@
+<table>
+    {% for row in include.content %}
+        {% if forloop.first %}
+            <thead>
+                <tr>
+                    {% for pair in row %}
+                        <th>{{ pair[0] }}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+        {% endif %}
+    {% endfor %}
+    
+    <tbody>
+        {% for row in include.content %}
+            {% unless forloop.first %}
+                {% tablerow pair in row %}
+                    {{ pair[1] }}
+                {% endtablerow %}
+            {% endunless %}
+        {% endfor %}
+    </tbody>
+</table>
