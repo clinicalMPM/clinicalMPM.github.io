@@ -1,5 +1,6 @@
+title: Clinical MPM Supplementary Data
+theme: jekyll-theme-cayman
 exclude:
 - Dockerfile
 - LICENSE
 - source.sh
-theme: jekyll-theme-cayman

@@ -10,9 +10,8 @@ run() {
         --network host
         --rm
         --volume "$PWD:/src"
-        --workdir /src
         $IMAGE
-        bash
+        "$@"
     )
     docker run "${args[@]}"
 }

@@ -1,3 +1,9 @@
-FROM jekyll/jekyll
+FROM ruby
 
-RUN gem install jekyll-theme-cayman
+WORKDIR /src
+
+ADD Gemfile .
+
+RUN bundle update
+
+CMD ["jekyll", "serve"]
