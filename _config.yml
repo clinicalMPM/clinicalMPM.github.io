@@ -1,5 +1,6 @@
 title: Clinical MPM Supplementary Data
-theme: jekyll-theme-cayman
+description: Download <a href="/mean_b1.csv">our data</a>
+theme: jekyll-theme-minimal
 exclude:
 - Dockerfile
 - LICENSE

@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media (min-width: 1000px) {
+    .wrapper {
+        width: 1000px;
+    }
+
+    section {
+        width: 700px;
+    }
+}
+
+.DTFC_LeftHeadWrapper {
+    background-color: white;
+}
+
+.DTFC_LeftHeadWrapper table {
+    border: none !important;
+}
+
+table.dataTable.no-footer, .dataTables_scrollBody {
+    border-bottom: 1px solid white !important;
+}

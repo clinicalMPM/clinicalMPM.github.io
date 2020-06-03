@@ -6,4 +6,4 @@ ADD Gemfile .
 
 RUN bundle update
 
-CMD ["jekyll", "serve"]
+CMD ["jekyll", "serve", "--host", "0.0.0.0"]

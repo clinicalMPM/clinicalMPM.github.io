@@ -1,0 +1,1 @@
+[intra-subject reliability](/) [inter-subject reliability](/inter-subject.html)
