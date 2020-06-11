@@ -53,3 +53,17 @@ The intra-subject reliability data are available for each of the four maps (MT, 
 The intra-subject reliability data files are named in the following format:
 
 intrasubject_{correction}.csv where correction can be (b1_unringing, b1, no_b1_unringing or no_b1) as described above.
+
+## Multi-resolution Data
+Additionally, one subject was scanned three times at different isotropic resolutions (2.7 mm, 2.0 mm, 1.6 mm, 1.3 mm, 1 mm) to compare the intra-subject reliability at different resolutions and to investigate the effect of Gibb's ringing correction at different resolutions in the white matter. The data for this is contained in the following file:
+
+multiresolution_results.csv 
+
+The file has the following headers:
+- Voxel size (isotropic mm)
+    - voxel size at which reliability was assessed
+- MT/PD/R1/R2*
+    - original
+        - intra-subject reliability of white matter without Gibb's ringing correction
+    - unringing
+        - intra-subject reliability of white matter with Gibb's ringing correction

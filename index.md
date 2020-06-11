@@ -16,6 +16,8 @@ The intra-subject reliability data can be seen here: [intra-subject reliability]
 
 The inter-subject reliability data can be seen here: [inter-subject reliability](/inter-subject.html)
 
-You can download all the reliability data as well as the mean parameter values using the link on the left.
+Additionally we assessed the intra-subject reliability of one subject scanned three times at multiple resolutions. The data for this analysis can be seen here: [multi-resolution analysis](/multi-resolution.html)
+
+You can download all the reliability data, mean parameter values and the multi-resolution analysis results using the link on the left.
 
 {% include scripts.html %}
