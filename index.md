@@ -12,7 +12,7 @@ Using a short protocol adapted for clinical studies at 1.6 mm isotropic resoluti
 
 We calculated the intra-subject and inter-subject reliability of each map in every region of the Neuromorphometrics atlas. 
 
-The intra-subject reliability data can be seen here: [intra-subject reliability](/intra-subject.html) 
+The intra-subject (scan-rescan) reliability data can be seen here: [intra-subject reliability](/intra-subject.html) 
 
 The inter-subject reliability data can be seen here: [inter-subject reliability](/inter-subject.html)
 

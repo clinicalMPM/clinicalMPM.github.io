@@ -3,7 +3,7 @@
 
 {% include styles.html %}
 
-# Intra-subject reliability
+# Intra-subject (scan-rescan) reliability
 
 ## B1+ inhomogeneity correction using acquired B1+ maps without Gibb's ringing correction
 
