@@ -1,4 +1,4 @@
-ROI,PD mean (%),PD sd (%),MT mean (%),MT sd (%),R1 mean (%),R1 sd (%),R2* mean (%),R2* sd (%)
+ROI,PD mean CoV (%),PD sd CoV (%),MT mean CoV (%),MT sd CoV (%),R1 mean CoV (%),R1 sd CoV (%),R2* mean CoV (%),R2* sd CoV(%)
 Accumbens,1.66,0.27,3.76,0.77,2.99,0.88,8.64,1.72
 Amygdala,2.16,0.46,5.14,1.46,3.47,0.84,14.56,3.65
 Caudate,1.22,0.18,3.59,0.78,2.74,0.85,5.95,0.99
