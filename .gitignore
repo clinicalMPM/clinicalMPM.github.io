@@ -1,3 +1,4 @@
+_data/clinical_mpm_data
 *.DS_Store
 .jekyll-cache
 .sass-cache

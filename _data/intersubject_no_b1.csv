@@ -1,61 +1,61 @@
-ROI,PD mean CoV (%),PD sd CoV (%),MT mean CoV (%),MT sd CoV (%),R1 mean CoV (%),R1 sd CoV (%),R2* mean CoV (%),R2* sd CoV(%)
-Accumbens,7.25,1.25,14.43,1.51,6.34,2.29,8.26,2.42
-Amygdala,8.46,0.66,4.43,1.15,5.79,1.50,6.13,3.16
-Caudate,6.49,1.19,6.86,0.89,5.42,2.07,8.48,0.46
-Cerebellum White Matter,6.78,0.50,4.90,0.11,4.56,1.30,8.40,1.84
-Cerebral White Matter,5.44,2.24,3.48,0.38,6.18,2.40,2.53,0.10
-Hippocampus,6.67,0.28,3.48,1.57,4.84,1.52,5.41,2.06
-Pallidum,6.64,0.27,3.76,0.23,3.37,1.19,10.18,0.58
-Putamen,6.71,0.61,3.40,0.63,2.49,1.11,7.73,0.63
-Thalamus Proper,5.99,0.96,4.79,1.03,4.76,1.01,6.06,1.57
-Ventral DC,7.60,1.77,6.33,1.64,6.78,2.47,5.64,1.29
-Basal Forebrain,12.14,2.16,21.80,0.68,12.90,2.02,10.53,1.52
-Anterior Cingulate Gyrus,5.33,2.57,5.26,0.95,7.72,3.50,3.38,2.10
-Anterior Insula,8.05,1.65,6.71,0.39,6.33,2.17,4.68,1.05
-Anterior Orbital Gyrus,10.26,2.24,7.61,0.74,13.92,5.16,17.44,2.34
-Angular Gyrus,9.60,2.68,8.54,0.48,11.26,2.65,9.36,0.28
-Calcarine Cortex,8.80,2.37,6.95,0.72,6.77,2.12,6.58,0.04
-Central Operculum,7.16,2.00,7.25,0.62,5.35,1.68,4.52,0.85
-Cuneus,10.37,2.42,8.63,0.87,9.49,2.57,5.28,0.44
-Entorhinal area,9.58,0.31,10.68,0.85,8.65,0.53,4.94,1.14
-Frontal Operculum,6.09,2.53,9.15,0.88,6.31,3.14,5.23,0.51
-Frontal Pole,11.34,1.53,15.78,1.53,14.97,2.27,21.37,0.40
-Fusiform Gyrus,6.29,0.02,5.87,0.49,4.00,1.37,7.03,0.70
-Gyrus Rectus,4.92,1.27,8.10,0.71,6.58,3.66,11.04,0.81
-Inferior Occipital Gyrus,8.13,2.39,9.30,0.62,6.60,1.64,10.73,1.20
-Inferior Temporal Gyrus,7.30,0.48,4.86,0.67,4.57,0.62,10.43,0.33
-Lingual Gyrus,7.26,1.14,13.91,0.11,6.54,1.63,6.06,0.47
-Lateral Orbital Gyrus,10.97,3.56,12.64,0.55,10.90,5.66,21.24,3.66
-Middle Cingulate Gyrus,3.79,2.57,9.83,0.78,9.48,1.02,4.84,0.24
-Medial Frontal Cortex,4.88,2.43,5.80,0.44,8.23,3.36,4.88,1.40
-Middle Frontal Gyrus,8.84,2.21,7.79,0.97,13.92,2.82,9.00,1.33
-Middle Occipital Gyrus,9.23,2.85,11.88,0.54,10.93,2.09,10.26,0.68
-Medial Orbital Gyrus,4.77,1.13,8.14,2.54,8.19,5.06,5.48,0.99
-Postcentral Gyrus Medial Segment,8.88,1.90,20.97,1.08,21.85,3.37,13.66,0.17
-Precentral Gyrus Medial Segment,7.53,1.65,19.75,0.22,19.29,2.56,10.29,0.09
-Superior Frontal Gyrus Medial Segment,9.99,2.26,9.74,0.77,16.09,3.68,7.49,1.39
-Middle Temporal Gyrus,5.97,1.04,5.35,0.83,5.05,1.15,7.52,0.22
-Occipital Pole,13.64,2.58,16.92,0.93,9.37,3.08,34.79,2.05
-Occipital Fusiform Gyrus,8.40,1.67,15.58,0.40,7.10,1.30,10.29,1.34
-Opercular Part of the Inferior Frontal Gyrus,7.36,2.89,6.46,1.04,6.07,3.91,5.92,1.07
-Orbital Part of the Inferior Frontal Gyrus,7.12,2.52,9.67,0.83,8.66,3.40,13.71,2.35
-Posterior Cingulate Gyrus,5.82,0.99,11.19,1.41,9.08,0.52,3.02,0.99
-Precuneus,8.66,2.48,11.57,0.69,12.06,2.28,5.25,0.21
-Parahippocampal Gyrus,6.32,0.72,13.09,0.37,7.98,3.82,11.26,0.62
-Posterior Insula,7.61,1.15,10.45,0.56,6.26,1.93,5.20,0.95
-Parietal Operculum,5.77,2.17,11.18,0.37,8.02,2.01,5.72,1.11
-Postcentral Gyrus,8.28,2.65,9.33,1.10,13.82,3.11,8.63,0.51
-Posterior Orbital Gyrus,7.79,1.32,8.96,0.36,6.09,3.11,24.00,0.53
-Planum Polare,7.35,1.18,12.31,0.35,6.20,0.28,5.98,1.18
-Precentral Gyrus,6.89,2.35,8.98,0.76,13.24,1.55,6.57,0.52
-Planum Temporale,7.52,2.30,9.44,0.80,8.09,2.75,6.30,0.59
-Subcallosal Area,8.62,1.70,9.66,0.21,7.00,2.51,9.10,1.93
-Superior Frontal Gyrus,9.89,1.59,7.89,0.79,16.09,2.53,7.20,1.17
-Supplementary Motor Cortex,7.60,2.03,9.97,0.32,15.69,3.39,5.40,0.85
-Supramarginal Gyrus,9.10,2.72,9.53,0.66,10.72,1.85,12.15,1.30
-Superior Occipital Gyrus,11.08,3.24,16.24,0.11,14.23,2.46,11.41,0.87
-Superior Parietal Lobule,10.16,2.57,12.36,0.36,15.92,2.44,7.99,0.03
-Superior Temporal Gyrus,8.15,1.70,4.96,0.71,5.27,1.67,5.02,0.18
-Temporal Pole,9.68,0.86,6.15,1.11,7.09,0.73,17.50,1.70
-Triangular Part of the Inferior Frontal Gyrus,6.13,2.79,7.37,1.46,6.75,2.61,10.80,0.86
-Transverse Temporal Gyrus,6.12,1.14,12.76,0.44,7.47,0.67,7.52,1.36
+ROI,PD CoV (%),MT CoV (%),R1 CoV (%),R2* CoV (%)
+Accumbens,7.25 ± 1.25,14.43 ± 1.51,6.34 ± 2.29,8.26 ± 2.42
+Amygdala,8.46 ± 0.66,4.43 ± 1.15,5.79 ± 1.50,6.13 ± 3.16
+Caudate,6.49 ± 1.19,6.86 ± 0.89,5.42 ± 2.07,8.48 ± 0.46
+Cerebellum White Matter,6.78 ± 0.50,4.90 ± 0.11,4.56 ± 1.30,8.40 ± 1.84
+Cerebral White Matter,5.44 ± 2.24,3.48 ± 0.38,6.18 ± 2.40,2.53 ± 0.10
+Hippocampus,6.67 ± 0.28,3.48 ± 1.57,4.84 ± 1.52,5.41 ± 2.06
+Pallidum,6.64 ± 0.27,3.76 ± 0.23,3.37 ± 1.19,10.18 ± 0.58
+Putamen,6.71 ± 0.61,3.40 ± 0.63,2.49 ± 1.11,7.73 ± 0.63
+Thalamus Proper,5.99 ± 0.96,4.79 ± 1.03,4.76 ± 1.01,6.06 ± 1.57
+Ventral DC,7.60 ± 1.77,6.33 ± 1.64,6.78 ± 2.47,5.64 ± 1.29
+Basal Forebrain,12.14 ± 2.16,21.80 ± 0.68,12.90 ± 2.02,10.53 ± 1.52
+Anterior Cingulate Gyrus,5.33 ± 2.57,5.26 ± 0.95,7.72 ± 3.50,3.38 ± 2.10
+Anterior Insula,8.05 ± 1.65,6.71 ± 0.39,6.33 ± 2.17,4.68 ± 1.05
+Anterior Orbital Gyrus,10.26 ± 2.24,7.61 ± 0.74,13.92 ± 5.16,17.44 ± 2.34
+Angular Gyrus,9.60 ± 2.68,8.54 ± 0.48,11.26 ± 2.65,9.36 ± 0.28
+Calcarine Cortex,8.80 ± 2.37,6.95 ± 0.72,6.77 ± 2.12,6.58 ± 0.04
+Central Operculum,7.16 ± 2.00,7.25 ± 0.62,5.35 ± 1.68,4.52 ± 0.85
+Cuneus,10.37 ± 2.42,8.63 ± 0.87,9.49 ± 2.57,5.28 ± 0.44
+Entorhinal area,9.58 ± 0.31,10.68 ± 0.85,8.65 ± 0.53,4.94 ± 1.14
+Frontal Operculum,6.09 ± 2.53,9.15 ± 0.88,6.31 ± 3.14,5.23 ± 0.51
+Frontal Pole,11.34 ± 1.53,15.78 ± 1.53,14.97 ± 2.27,21.37 ± 0.40
+Fusiform Gyrus,6.29 ± 0.02,5.87 ± 0.49,4.00 ± 1.37,7.03 ± 0.70
+Gyrus Rectus,4.92 ± 1.27,8.10 ± 0.71,6.58 ± 3.66,11.04 ± 0.81
+Inferior Occipital Gyrus,8.13 ± 2.39,9.30 ± 0.62,6.60 ± 1.64,10.73 ± 1.20
+Inferior Temporal Gyrus,7.30 ± 0.48,4.86 ± 0.67,4.57 ± 0.62,10.43 ± 0.33
+Lingual Gyrus,7.26 ± 1.14,13.91 ± 0.11,6.54 ± 1.63,6.06 ± 0.47
+Lateral Orbital Gyrus,10.97 ± 3.56,12.64 ± 0.55,10.90 ± 5.66,21.24 ± 3.66
+Middle Cingulate Gyrus,3.79 ± 2.57,9.83 ± 0.78,9.48 ± 1.02,4.84 ± 0.24
+Medial Frontal Cortex,4.88 ± 2.43,5.80 ± 0.44,8.23 ± 3.36,4.88 ± 1.40
+Middle Frontal Gyrus,8.84 ± 2.21,7.79 ± 0.97,13.92 ± 2.82,9.00 ± 1.33
+Middle Occipital Gyrus,9.23 ± 2.85,11.88 ± 0.54,10.93 ± 2.09,10.26 ± 0.68
+Medial Orbital Gyrus,4.77 ± 1.13,8.14 ± 2.54,8.19 ± 5.06,5.48 ± 0.99
+Postcentral Gyrus Medial Segment,8.88 ± 1.90,20.97 ± 1.08,21.85 ± 3.37,13.66 ± 0.17
+Precentral Gyrus Medial Segment,7.53 ± 1.65,19.75 ± 0.22,19.29 ± 2.56,10.29 ± 0.09
+Superior Frontal Gyrus Medial Segment,9.99 ± 2.26,9.74 ± 0.77,16.09 ± 3.68,7.49 ± 1.39
+Middle Temporal Gyrus,5.97 ± 1.04,5.35 ± 0.83,5.05 ± 1.15,7.52 ± 0.22
+Occipital Pole,13.64 ± 2.58,16.92 ± 0.93,9.37 ± 3.08,34.79 ± 2.05
+Occipital Fusiform Gyrus,8.40 ± 1.67,15.58 ± 0.40,7.10 ± 1.30,10.29 ± 1.34
+Opercular Part of the Inferior Frontal Gyrus,7.36 ± 2.89,6.46 ± 1.04,6.07 ± 3.91,5.92 ± 1.07
+Orbital Part of the Inferior Frontal Gyrus,7.12 ± 2.52,9.67 ± 0.83,8.66 ± 3.40,13.71 ± 2.35
+Posterior Cingulate Gyrus,5.82 ± 0.99,11.19 ± 1.41,9.08 ± 0.52,3.02 ± 0.99
+Precuneus,8.66 ± 2.48,11.57 ± 0.69,12.06 ± 2.28,5.25 ± 0.21
+Parahippocampal Gyrus,6.32 ± 0.72,13.09 ± 0.37,7.98 ± 3.82,11.26 ± 0.62
+Posterior Insula,7.61 ± 1.15,10.45 ± 0.56,6.26 ± 1.93,5.20 ± 0.95
+Parietal Operculum,5.77 ± 2.17,11.18 ± 0.37,8.02 ± 2.01,5.72 ± 1.11
+Postcentral Gyrus,8.28 ± 2.65,9.33 ± 1.10,13.82 ± 3.11,8.63 ± 0.51
+Posterior Orbital Gyrus,7.79 ± 1.32,8.96 ± 0.36,6.09 ± 3.11,24.00 ± 0.53
+Planum Polare,7.35 ± 1.18,12.31 ± 0.35,6.20 ± 0.28,5.98 ± 1.18
+Precentral Gyrus,6.89 ± 2.35,8.98 ± 0.76,13.24 ± 1.55,6.57 ± 0.52
+Planum Temporale,7.52 ± 2.30,9.44 ± 0.80,8.09 ± 2.75,6.30 ± 0.59
+Subcallosal Area,8.62 ± 1.70,9.66 ± 0.21,7.00 ± 2.51,9.10 ± 1.93
+Superior Frontal Gyrus,9.89 ± 1.59,7.89 ± 0.79,16.09 ± 2.53,7.20 ± 1.17
+Supplementary Motor Cortex,7.60 ± 2.03,9.97 ± 0.32,15.69 ± 3.39,5.40 ± 0.85
+Supramarginal Gyrus,9.10 ± 2.72,9.53 ± 0.66,10.72 ± 1.85,12.15 ± 1.30
+Superior Occipital Gyrus,11.08 ± 3.24,16.24 ± 0.11,14.23 ± 2.46,11.41 ± 0.87
+Superior Parietal Lobule,10.16 ± 2.57,12.36 ± 0.36,15.92 ± 2.44,7.99 ± 0.03
+Superior Temporal Gyrus,8.15 ± 1.70,4.96 ± 0.71,5.27 ± 1.67,5.02 ± 0.18
+Temporal Pole,9.68 ± 0.86,6.15 ± 1.11,7.09 ± 0.73,17.50 ± 1.70
+Triangular Part of the Inferior Frontal Gyrus,6.13 ± 2.79,7.37 ± 1.46,6.75 ± 2.61,10.80 ± 0.86
+Transverse Temporal Gyrus,6.12 ± 1.14,12.76 ± 0.44,7.47 ± 0.67,7.52 ± 1.36
