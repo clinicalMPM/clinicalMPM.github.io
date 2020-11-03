@@ -18,6 +18,6 @@ The inter-subject reliability data can be seen here: [inter-subject reliability]
 
 Additionally we assessed the intra-subject reliability of one subject scanned three times at multiple resolutions. The data for this analysis can be seen here: [multi-resolution analysis](/multi-resolution.html)
 
-You can download all the reliability data, mean parameter values and the multi-resolution analysis results using the link on the left.
+You can download all the reliability data, mean parameter values, the multi-resolution analysis results, the bash scripts for MPM map creation using the hMRI toolbox as well as the scan protocol using the link on the left.
 
 {% include scripts.html %}
