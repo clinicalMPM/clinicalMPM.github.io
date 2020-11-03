@@ -67,3 +67,21 @@ The file has the following headers:
         - intra-subject reliability of white matter without Gibb's ringing correction
     - unringing
         - intra-subject reliability of white matter with Gibb's ringing correction
+
+## hMRI Toolbox Options
+We used the hMRI toolbox to generate the MT/PD/R1/R2* maps using two different methods for B1+ correction. The following files show the matlab batch options for the command create_mpm with the acquired B1+ maps and with UNICORT, respectively:
+
+hmri_map_creation_b1.m
+hmri_map_creation_unicort.m
+
+The following options should be replaced with local paths to directories and files:
+- folder_path
+    - path to output directory
+- b1inputs
+    - path to the acquired b1+ maps
+- mtinputs
+    - path to the MT weighted images
+- pdinputs 
+    - path to the PD weighted images
+- t1inputs
+    - path to the T1 weighted images
