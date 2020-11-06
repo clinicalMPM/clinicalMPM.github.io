@@ -80,8 +80,10 @@ The following options should be replaced with local paths to directories and fil
 - b1inputs
     - path to the acquired b1+ maps
 - mtinputs
-    - path to the MT weighted images
+    - path to the MT weighted images 
 - pdinputs 
     - path to the PD weighted images
 - t1inputs
     - path to the T1 weighted images
+
+Note that the absolute values of MT should be scaled by 220/500, corresponding to the ratio of MT saturation pulse flip angles used in the customized sequence by Weiskopf et al. (2013) and the vendor sequence used in our study (Leutritz et al., 2020)
