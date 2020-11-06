@@ -6,6 +6,13 @@
     "use strict";
 
     $(document).ready(function() {
+        $.fn.dataTable.ext.type.order["my-type-pre"] = function(data) {
+            var match = data.match(/(.*)±/)
+            if (match) {
+                return Number(match[1])
+            }
+            return data
+        }
         $("table").DataTable( {
             scrollY:        "300px",
             scrollX:        true,
@@ -13,7 +20,13 @@
             paging:         false,
             fixedColumns:   {
                 leftColumns: 1,
-            }
+            },
+            columnDefs: [
+                {
+                    targets: "_all",
+                    type: "my-type",
+                },
+            ],
         } )
     });
 </script>
