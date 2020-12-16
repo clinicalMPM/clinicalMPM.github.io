@@ -3,10 +3,9 @@
 
 {% include styles.html %}
 
-This website provides the supplementary data for the paper entitled **"Quantitative‌ ‌Multi-Parameter‌ ‌Mapping‌ ‌Optimized‌ ‌for‌ ‌the‌ ‌Clinical‌ ‌Routine‌"**. If you use the data in your analyses, please use the following citations:
+This website provides the supplementary data for the paper entitled **"Quantitative‌ ‌Multi-Parameter‌ ‌Mapping‌ ‌Optimized‌ ‌for‌ ‌the‌ ‌Clinical‌ ‌Routine‌"**. If you use the data in your analyses, please use the following citation:
 
-1. *paper citation*
-2. *data citation*
+Cooper G, Hirsch S, Scheel M, Brandt AU, Paul F, Finke C, Boehm-Sturm P and Hetzer S (2020) Quantitative Multi-Parameter Mapping Optimized for the Clinical Routine. *Front. Neurosci.* 14:611194. doi: 10.3389/fnins.2020.611194
 
 Using a short protocol adapted for clinical studies at 1.6 mm isotropic resolution, we measured magnetisation transfer ratio (MT), effective proton density (PD), longitudinal relaxation rate (R1) and effective transverse relaxation rate (R2*) in six healthy participants with three repetitions. 
 
